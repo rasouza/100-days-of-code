@@ -31,3 +31,11 @@
 **Thoughts:** I thought that would be much harder to create a form-submit feature, but Angular really makes it easy
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
+### Day 5: March 14th, 2017
+
+**Today's Progress**: Rendered the timeline based on a service
+
+**Thoughts:** I'm mocking the stories since I don't have the API up and running yet. Maybe tomorrow will have my hands on it. However, mocking data is usefull to check if your Angular code is right. Still need to implement automated tests
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
