@@ -39,3 +39,11 @@
 **Thoughts:** I'm mocking the stories since I don't have the API up and running yet. Maybe tomorrow will have my hands on it. However, mocking data is usefull to check if your Angular code is right. Still need to implement automated tests
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
+### Day 6: March 15th, 2017
+
+**Today's Progress**: Changed theme's color and listed all my Github repos
+
+**Thoughts:** Today I created a service, changed template's theme and included a 3rd party library all on my own. Previously, It took me a whole week and several hours of watching tutorials to accomplish it all. Tomorrow I'll start creating the backend API.
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
