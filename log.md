@@ -54,4 +54,4 @@
 
 **Thoughts:** I started the API since my Angular app is lacking backend functionality, implemented OAuth2 for GitHub on it but I have no idea on how to make it work in Angular
 
-**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
