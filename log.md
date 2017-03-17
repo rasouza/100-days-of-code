@@ -47,3 +47,11 @@
 **Thoughts:** Today I created a service, changed template's theme and included a 3rd party library all on my own. Previously, It took me a whole week and several hours of watching tutorials to accomplish it all. Tomorrow I'll start creating the backend API.
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
+### Day 7: March 15th, 2017
+
+**Today's Progress**: Created API and implemented OAuth2
+
+**Thoughts:** I started the API since my Angular app is lacking backend functionality, implemented OAuth2 for GitHub on it but I have no idea on how to make it work in Angular
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
