@@ -48,10 +48,51 @@
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
 
-### Day 7: March 15th, 2017
+### Day 7: March 16th, 2017
 
 **Today's Progress**: Created API and implemented OAuth2
 
 **Thoughts:** I started the API since my Angular app is lacking backend functionality, implemented OAuth2 for GitHub on it but I have no idea on how to make it work in Angular
 
 **Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
+### Day 8: March 17th, 2017
+
+**Today's Progress**: Surveyed better ways to develop under CI approach
+
+**Thoughts:** Since I develop not only at home but also at work, serving an Backend app in a specific language would slow down development due to app setup. I switched to Continuous Integration to speed up development while having all tech ready wherever I decide to code. I took the day off to search for a good and viable cloud solution for this issue.
+
+**Link to work:** None
+
+### Day 9: March 20th, 2017
+
+**Today's Progress**: Played with Virtualmin to learn more about hosting management
+
+**Thoughts:** I found myself using Google Cloud Engine because of their free plans and easy to setup workflow. Although their compute resources on free plan are pretty low (0.2 vCPU and 0.6Gb RAM), that was enough to set up an use case. If I could get to know Virtualmin better I could migrate to DigitalOcean as my main server hosting apps with Virtualmin. The outcome was positive.
+
+**Link to work:** None
+
+### Day 10: March 21th, 2017
+
+**Today's Progress**: Struggled with CI solutions
+
+**Thoughts:** After setting a VPS up, I went on choosing a CI solutions. There were plenty of them available (Travis, Codefresh, Codeship, AWS, etc.) but I had to find one that I could easily deploy to a custom VPS after building and testing steps. Travis were the most friendly UI that I found but still had some issues with custom deploy. Codeship offered the best solution with ready-to-use SSH deploy key and GitHub commit integration
+
+**Link to work:** None
+
+### Day 11: March 22th, 2017
+
+**Today's Progress**: Setup Codeship CI 
+
+**Thoughts:** There were some little things specific to CI that took me some time to learn like database integration, container images, env variables inside Laravel app, etc. I had to code custom scripts to set up the test steps and another one for custom deploy. I learned a bit from it all, interesting day.
+
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
+### Day 12: March 23th, 2017
+
+**Today's Progress**: Wrote test cases and initiated Git-flow 
+
+**Thoughts:** Now that every commit on master will trigger a new build on Codeship, I had to implement test cases to make sure that my code is working when automatic deploy runs. To make things easier, I started using git-flow to better manage branch features and releases.
+
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
