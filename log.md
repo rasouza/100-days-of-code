@@ -96,3 +96,27 @@
 
 **Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
 
+### Day 13: March 24th, 2017
+
+**Today's Progress**: Finally integrated Diary API with Angular 
+
+**Thoughts:** Frontend make calls to API backend and it's able to write one story and retrive all of them at once. There's a bug when sending Javascript Date objects as JSON because JS Date format is different from PHP's and it can't parse alone.
+
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php), [Programming Diary](https://github.com/rasouza/diary)
+
+### Day 14: March 27th, 2017
+
+**Today's Progress**: Fixed bug that couldn't send Date objects to API 
+
+**Thoughts:** Among all of the solutions I was looking for something that would leave my Angular code's readability untouched. There was an approach which would remodel Story class' date member as String instead of Date object but I didn't choose this way. It took me some time until I wrote a mutator for Story model in the backend.
+
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
+### Day 15: March 28th, 2017
+
+**Today's Progress**: Improved User Experience and Feedback 
+
+**Thoughts:** I changed the place of some form inputs in Write form so user can be sure when he's writing for, created a notification which tell whether everything went ok and created table to list user's repositories. Next step is to integrate OAuth in the app
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
