@@ -120,3 +120,11 @@
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
 
+### Day 16: March 29th, 2017
+
+**Today's Progress**: Figured out how to consume OAuth API with more than 1 endpoint 
+
+**Thoughts:** I've been struggling on how I should consume some Github endpoints to fetch different data for months and now I finally understood how it should work. Actually, I created some endpoints in my backend API that consumes (thanks to Guzzle lib) Github endpoints and forward the access token placed in frontend's localStorage
+
+**Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
