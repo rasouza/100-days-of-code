@@ -128,3 +128,19 @@
 
 **Link to work:** [Programming Diary API](https://github.com/rasouza/diary-api-php)
 
+### Day 17: March 30th, 2017
+
+**Today's Progress**: Changed the way I consume Github API endpoints 
+
+**Thoughts:** It was a little bit unclear how I should keep client access token in frontend so I could make calls. Today I figured out that I don't need a backend API for every Github stuff. In fact, I just need it because GitHub doesn't support Implicit Flow (that's what I learned today). I still need it to store app-specific data.
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
+### Day 18: March 31th, 2017
+
+**Today's Progress**: Used some Angular template syntax to get a more fluent UX 
+
+**Thoughts:** Particularly to Settings page, the User could not yet have been logged in the app therefore, there should be no repositories listing. I used some Angular conditionals, classes binding and event handling to show only data that is interesting to the user at that moment (hiding list, centering cards, etc.)
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary)
+
