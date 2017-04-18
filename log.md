@@ -144,3 +144,19 @@
 
 **Link to work:** [Programming Diary](https://github.com/rasouza/diary)
 
+### Day 19: April 1st, 2017
+
+**Today's Progress**: Integrated Twitter OAuth
+
+**Thoughts:** Twitter integration was harder 'cause its OAuth API is still in version 1.0a. I didn't know it was way harder to make requests in this version.
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary), [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
+### Day 20: April 2st, 2017
+
+**Today's Progress**: Created auto-tweeting
+
+**Thoughts:** A very interesting feature for users that synced their twitter account with Programming Diary app. The write form asks if you want to tweet as soon as you submit your story. Still need to check the day index to prepend in tweet
+
+**Link to work:** [Programming Diary](https://github.com/rasouza/diary), [Programming Diary API](https://github.com/rasouza/diary-api-php)
+
