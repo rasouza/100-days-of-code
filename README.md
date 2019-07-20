@@ -1,8 +1,12 @@
 # I've joined the #100DaysOfCode Challenge.
 
+## Rounds
+
+* [Round 1](logs/round1.md)
+* [Round 2](logs/round2.md)
+
 ## Contents
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
